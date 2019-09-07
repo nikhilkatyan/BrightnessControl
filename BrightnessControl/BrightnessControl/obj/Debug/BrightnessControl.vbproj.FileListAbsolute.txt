@@ -1,0 +1,11 @@
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\bin\Debug\BrightnessControl.exe.config
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\bin\Debug\BrightnessControl.exe
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\bin\Debug\BrightnessControl.pdb
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\bin\Debug\BrightnessControl.xml
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.Form1.resources
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.Resources.resources
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.vbproj.GenerateResource.cache
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.vbproj.CoreCompileInputs.cache
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.exe
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.xml
+C:\Users\nikhiL\source\repos\BrightnessControl\BrightnessControl\obj\Debug\BrightnessControl.pdb
